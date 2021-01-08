@@ -10,6 +10,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+https://nbviewer.jupyter.org/
+
 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/GitHub%20-%20Part%203.md.html?origin=www.coursera.org
 
