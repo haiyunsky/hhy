@@ -4,6 +4,8 @@ https://github.com/IBM/skillsnetwork
 
 https://github.com/romeokienzler/TensorFlow/
 
+Skills Network Labs (SN Labs) is a virtual lab environment used in this course.
+
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/GitHub%20-%20Part%203.md.html?origin=www.coursera.org
 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0101EN-SkillsNetwork/labs/Module%203/ReadingReportStructure.md.html?origin=www.coursera.org
