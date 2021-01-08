@@ -27,3 +27,27 @@ git push -u origin master
 …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+------
+
+git pull
+
+-----------------
+
+git branch mybranch
+
+git checkout mybranch
+
+echo "# test branch1" >> test_branch.txt
+
+git push --set-upstream origin mybranch
+
+git push
+
+git checkout master
+
+git merge mybranch
+
+git push
+
+
