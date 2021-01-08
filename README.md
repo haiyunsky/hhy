@@ -52,6 +52,8 @@ git push
 
 git checkout master
 
+git pull
+
 git merge mybranch
 
 git push
