@@ -42,7 +42,13 @@ echo "# test branch1" >> test_branch.txt
 
 git push --set-upstream origin mybranch
 
+git add .
+
+git commit -m "add a branch and file"
+
 git push
+
+-------
 
 git checkout master
 
